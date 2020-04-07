@@ -40,8 +40,7 @@
     "tslint-plugin-prettier": "^1.3.0",
     "typescript": "^2.7.2",
     "webpack": "^4.1.1",
-    "webpack-cli": "^2.0.12",
-    "dotf": "1.4.2"
+    "webpack-cli": "^2.0.12"
   },
   "jest": {
     "transform": {
